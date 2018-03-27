@@ -2,7 +2,7 @@
 
 ## Why
 
-This widget will help you advertise that you support Gitcoin bounties, so that your community knows the best place to contribute and earn ETH
+This widget will help you advertise that you support Gitcoin bounties, so that your community knows the best place to contribute and earn ETH. 
 
 ## Example
 
@@ -12,7 +12,7 @@ This widget will help you advertise that you support Gitcoin bounties, so that y
 
 ## Results
 
-Repos that have this widget can expect to see 35% more interest in their repo's bounties
+Repos that have this widget can expect to see 35% more interest in their repo's bounties.
 
 ## Code
 
